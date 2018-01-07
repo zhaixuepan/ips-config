@@ -1,2 +1,2 @@
-# ips-config
-ips-config
+#ips-Config
+ips-Admin所用到的config
